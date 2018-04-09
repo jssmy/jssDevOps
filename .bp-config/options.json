@@ -1,0 +1,5 @@
+{
+	"COMPOSER_VENDOR_DIR": "htdocs/vendor",
+	"WEBDIR": "htdocs/public",
+	"PHP_EXTENSIONS": ["amqp", "dba", "exif", "fileinfo", "ftp", "gd", "gettext", "gmp", "igbinary", "imagick", "imap", "intl", "ldap", "mailparse", "mbstring", "memcached", "msgpack", "mysqli", "openssl", "pdo", "pdo_sqlite", "pdo_mysql", "pdo_pgsql", "pgsql", "phalcon", "phpiredis", "pspell", "redis", "soap", "sockets", "zip"]
+}

@@ -1,0 +1,7 @@
+applications:
+- name: integration-app
+  memory: 128M
+  buildpack: https://github.com/cloudfoundry/php-buildpack.git
+  env:
+    CF_STAGING_TIMEOUT: 5000
+    CF_STARTUP_TIMEOUT: 5000
